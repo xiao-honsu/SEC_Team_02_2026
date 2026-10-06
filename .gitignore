@@ -1,2 +1,5 @@
 .claude/
 02_Source/01_Source Code/monitoring/prometheus/metrics-token.txt
+
+# Local environment files hold real secrets; commit only the *.env.example templates
+.env
